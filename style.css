@@ -1,0 +1,33 @@
+body {
+    background-color: lightgray;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  
+  header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  main {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  p {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
